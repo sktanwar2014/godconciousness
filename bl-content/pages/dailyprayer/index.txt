@@ -1,0 +1,38 @@
+<div class="slideshow-container">
+  <div class="mySlides">
+    <div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/DailyPrayer.jpg');">
+      <div class="container"><br>
+        <center>
+          <h2 style="margin-top: 40px;">DAILYPRAYERS</h2>
+        </center>
+        <div class="row align-items-center justify-content-center">
+          <blockquote>
+            <p>"MANGAL hi MANGAL<br>Hum Sab Ka MANGAL Kar Do Ji <br>Dukh Takleef Kasht Intezaar Losses Sab Har Lo Ji
+              <br>Shukrana Shukrana Shukrana Meray Malik. "</p>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  var slideIndex = 0;
+  showSlides();
+
+  function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {
+      slideIndex = 1
+    }
+
+    slides[slideIndex - 1].style.display = "block";
+
+    setTimeout(showSlides, 1000); // Change image every 10 seconds
+  }
+</script>

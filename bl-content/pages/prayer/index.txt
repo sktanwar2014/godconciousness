@@ -1,0 +1,26 @@
+<div class="container-fluid" style="padding: 0px!important;">
+  <img src="{{ siteUrl }}images/GC/Prayers Graphic V1 - 1920 x 400.jpg" alt="" class="img-responsive"
+    style="width: 100%; height: auto;" />
+</div>
+<div class="py-4 greyb">
+  <div class="container">
+    <p class="thin" style="margin-top: 24px; margin-bottom: 0px; padding-top: 0px;font-size: 0.8em;">
+      <a href="{{ siteUrl }}index.html">Home </a> &gt; Prayers &gt; Daily
+      Prayers
+    </p>
+  </div>
+  <div class="">
+    <div class="container">
+      <h2 class="text-dark text-center">Daily Prayer</h2>
+      <div class="row my-5">
+        <div class="col-md-4 mx-auto text-left">
+          <blockquote class="text-dark my-5" style="margin-top: 30px;" id="prayermain"></blockquote>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 offset-md-3 mb-5 text-dark">
+      <h2 class="ml-3 text-dark">Share your Experience</h2>
+      <div id="contactform"></div>
+    </div>
+  </div>
+</div>

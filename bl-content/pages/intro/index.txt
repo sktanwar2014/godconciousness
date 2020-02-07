@@ -1,0 +1,120 @@
+<div class="container-fluid" style="padding: 0px!important;"><img
+    src="{{siteUrl}}images/GC/Introduction Graphic V2 A - 1920 x 400.jpg" alt="" class="img-responsive"
+    style="width: 100%;"></div>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="breadcrumb" style="max-width: 1920px;">
+                <p style="margin-top: 24px; margin-bottom: 0px; padding-top: 0px; /* margin-bottom: 0; */    font-size: 0.8em;"><a
+                        href="{{siteUrl}}index.html">Home </a> &gt; About &gt; Introduction</p>
+                </div>
+<center>
+<h2 style="padding-top:10px;font-size: 2.8em;">Introduction</h2>
+</center>
+
+<p><b class="pl-5 text-dark"> What is Consciousness ?</b>
+<ul class="text-dark" style=" padding-left: 4rem;">
+
+    <li>
+        <!-- 1. -->
+        The state of being conscious; awareness of one’s own existence, sensations, thoughts, needs, behaviour,
+        attitude,
+        surroundings, etc.
+        </br>
+        </br>
+    </li>
+    <!-- 2. -->
+    <li>
+        Full activity of the mind (or the mental faculties) and senses, as in waking life
+        </br>
+        </br>
+    </li>
+    <!-- 3. -->
+    <li> A person's perception of something.
+    </br>
+    </br>
+    </li>
+</ul>
+</p>
+<p class="pl-5 text-dark" style="
+    line-height: 215%;
+">
+
+The Wikipedia summarises it as “sentience or awareness of internal or external existence”.
+</br>
+
+Thesaurus gives its synonyms as ‘Awareness’ , ‘Wakefulness’ ‘Alertness’, ‘Responsiveness’, ‘Realization’,
+‘Care’,
+‘Carefulness’.
+</br>
+God – the Creator and the Ruler of the Universe and all moral authority ; the one Supreme Being.
+</br>
+So then what is God’s Consciousness?
+</br>
+</br>
+<b>God’s Consciousness is-</b></br>
+</br>
+
+Living,
+Feeling,
+Thinking,
+Speaking,
+Acting,
+Doing,
+Walking,
+Sitting,
+Eating,
+Laying,
+Sleeping,
+Resting,
+Dancing,
+Singing,
+Working,
+Instructing,
+Listening
+and
+All that in the
+COMPLETE KNOW of the fact that since WE are from the CREATOR, WE BELONG to GOD.
+</br>
+<p class=" pl-5 text-dark">
+    So we have all the VIRTUES and POWER that vests with the CREATOR and LIVING with that knowledge cautiously,
+    consciously, conscientiously</br> We can
+    MANIFEST all that WE wish.</p>
+
+
+<p class="pl-5 text-dark">
+    God's Consciousness is a group initiated by <a href="/dimple-anil">DIMPLE ANIL</a> where all the co travellers read, write,
+    feel the DAILY PRAYERS that are given to DIMPLE ANIL by THEM (DIVINE/ANGELS/) between 2- 3 am everyday for the
+    last two decades and she shares THEIR Instructions, Directions, PRAYERS daily with every one.
+    </br></p>
+
+<p class="pl-5 text-dark">
+    Prayers are SIMPLE and DOABLE and have all those lead a more peaceful, successful, glorious, magnificent,
+    healthy,
+    prosperous and abundant life.
+</p>
+
+<!-- 
+<center>
+<p style="margin-top: 90px; ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui
+    aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+</center>
+
+<center>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis
+    tempora natus rerum obcaecati.</p>
+</center>
+
+<center>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis
+    tempora natus rerum obcaecati.</p>
+</center>
+
+<center>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis
+    tempora natus rerum obcaecati.</p>
+</center> -->
+
+</div>
+</div>
+</div>

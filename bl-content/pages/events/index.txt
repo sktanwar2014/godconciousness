@@ -1,0 +1,679 @@
+<div class="container-fluid" style="padding: 0px!important;"><img src="lib/files/miracle.jpeg" alt=""
+  class="img-responsive" style="width: 100%;"></div>
+
+<div class="container breadcrumb" style="max-width: 1920px;  background-color: #f8f9fa!important;">
+<p style="margin-top: 24px; margin-bottom: 0px; padding-top: 0px; /* margin-bottom: 0; */    font-size: 0.8em;"><a
+    href="{{siteUrl}}index.html">Home </a> &gt; Miracles</p>
+</div>
+<section class="choose bg-light py-5">
+<h2 class="main-title-w3layouts text-center" style="padding-top:30px;">Miracles</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-4 text-center"><img class="img-fluid" src="lib/files/pic3.jpeg" alt="">
+        <h4 style="font-size: 1.7em;" class="post_intro hidden-xs">
+            I come from and got married into a joint family.
+        </h4>
+      <button type="button" class="btn btn-primary btnmodal pill greybutton" id="b1">
+          Read More
+          </button>
+      <div id="data1" hidden>
+        I come from a joint family and got married into a joint family. In my new family, I saw that each one loved to play politics with one another. Saying bad behind someone's back and be sweet in front of them, I couldn't cope with all this and started getting migraines. I always felt I was clear and doing what was right for me! <br />
+        After coming into prayers I realised, that my claim of being clear-hearted was filled with ego and feeling of superiority. I became aware of my thoughts and my knowledge of my own self eventually healed my migraine. <br />
+        Thank you Di for the prayers. <br />
+        I was sowing ego and one up-manship and reaping migraine. <br />
+        Thank you for this awakening.<br />
+        <br />
+        Dimple Anil: All Gratitude to THEM, dear. <br />
+        Treat reading your Sharing. <br />
+        Your fine tuning with THE DIVINE and understanding of THEIR ways is remarkable. <br />
+        Bow to THEM.<br />
+          </div>
+        </div>
+        <div class="col-12 col-md-4 text-center"><img class="img-fluid" src="lib/files/believe.jpeg" alt="">
+        <h4 style="font-size: 1.7em;" class="post_intro hidden-xs">
+            My manifestations after coming in Prayers
+        </h4>
+      <button type="button" class="btn btn-primary btnmodal pill greybutton" id="b2">
+          Read More
+      </button>
+      <div id="data2" hidden>
+        Life seems to be sorted fully. <br />
+            Thank you Dimple MA. <br />
+            Love you. <br />
+            I wanted a clean, spacious home. <br />
+            I have. <br />
+            I wanted to wear sarees to my workplace. <br />
+            I have started. <br />
+            I wanted loads of plants in my home. <br />
+            I have<br />
+            I wanted enough resources for the education of my children and their marriages. <br />
+            Both married and settled. <br />
+            I wanted to be Naani Daadi. <br />
+            I am both<br />
+            I wanted my son and daughter in law to have good relationship. <br />
+            They have. <br />
+            I wanted my children to travel. <br />
+            They do. <br />
+            I wanted good health for my husband and myself. <br />
+            We are healthy. <br />
+            Bow, Namaskar, love, respect, regards to you Dimple Ma.<br />
+            Jeenay ka mazaa <br />
+            Jeenay ka tareeka<br />
+            Sab Aapnay dey diya<br />
+            Thank you <br />
+            Thank you <br />
+          </div>
+        </div>
+        <div class="col-12 col-md-4 text-center"><img class="img-fluid" src="lib/files/baby.jpeg" alt="">
+        <h4 style="font-size: 1.7em;" class="post_intro hidden-xs">
+          I conceived after four years of marriage
+        </h4>
+      <button type="button" class="btn btn-primary btnmodal pill greybutton" id="b3">
+          Read More
+          </button>
+      <div id="data3" hidden>
+        Please share<br />
+            I conceived after four years of marriage, loads and loads of efforts. I was happy but insecure and very anxious. Was sowing mixed bag of emotions. <br />
+            Insecurities and anxieties out did happiness. I would thank profusely for this conception but at the same time constantly sowed anxiety, fear, doubt, insecurity.<br />
+            Then miscarriage,<br />
+            My world fell apart but it was an amazingly enriching experience. I knew what wrong I had sown. Strange confidence came in me to sow more and more of goodies, good feelings. This miscarriage is my teacher. I understood what Dimple Auntyji says. I knew where I was wrong, what I had sown I started meditations. <br />
+            I started shifting my focus. I started feeling better. This my miscarriage is my teacher, it helped me in all my living. Didn't conceive for next three years, but working on myself continued. <br />
+            Just day before my pregnancy is confirmed. I am at a much better place today. I know this baby will be born healthy and happy. I am so sure. Thank you Dimple Auntyji. Journey of knowing what we want and what we sow. I get results of my sowing instantly. <br />
+            I sow low feel for whatever reason, I get more of it and it comes from anywhere. I sow good feelings and I get the same from anywhere. <br />
+            Sow bad, receive badder, says Auntyji, friends I am living this. <br />
+            Please be alert. I am a living example. I sowed thank you, happiness and anxiety in first conception. Anxiety was more and miscarriage happened, now happiness and gratitude is more and I know I have in my womb healthy and happy Soul. I am confident. <br />
+            Anxiety when it comes, instead of letting it multiply, I wash my face, put on music, start meditation, go for a walk. All directions of Auntyji I follow to the T. <br />
+            Thank you dear Aunty ji for making me the Creator of my life. <br />
+            ðŸ™‡ Bow Bow Bow Bow to you.<br />
+            <br />
+            Dimple Anil: Your learning through a rough process shows how Blessed you are dear. Divine Wisdom, your Trust and Faith is immense. Anyone would have buckled. <br />
+            Not easy, not at all from where you started and where your realization has brought you today is worth emulating. My happiness for you is gushing out, infact I am smiling with teary eyes. You truly are an example of being a Creator of your destiny. Thank you so much dear for your sharing.<br />
+            All Blessings dear. THEY have no option but to shower and keep on showering Blessings. <br />
+            <br />
+          </div>
+        </div>
+        
+        <div class="col-12 col-md-4 text-center"><img class="img-fluid" src="lib/files/dine.jpg" alt="">
+        <h4 style="font-size: 1.7em;" class="post_intro hidden-xs">
+Dine & Dance
+        </h4>
+      <button type="button" class="btn btn-primary btnmodal pill greybutton" id="b4">
+          Read More
+      </button>
+      <div id="data4" hidden>
+        
+        Drink Dine & Dance<br />
+<br />
+Last night my husband was very sad and tensed.<br />
+We had plans of going for Drinks, Dance & Dinner yesterday but since he was so tensed he came back & refused. “Tina not today. Let’s just go to the temple.No party on my mind. I am not at ease.”, he said.<br />
+<br />
+I agreed and pointed at Neetu maa's pic to him, “Look at HER ! Tell HER your worries & things will be fine. He went off to sleep at 8 when he woke up at 9 pm, he saw me all ready and decked up. “Where are you going?,” he asked.<br />
+ I replied,  “This is the last Saturday of 2019 so you relax I'm going to celebrate alone.”<br />
+ Then I see him getting ready. <br />
+As we both were about to leave, he told me that he didn’t  have money. <br />
+I quipped, “ Well, that’s a smart way of asking me 🤭!”   I kept around ₹5k but I knew that bills at such pubs go beyond ₹8kto 9k<br />
+I left with my husband, my brother in law and 2 more friends. When we reached our destination  we got to know that one of the biggest chains of Delhi named Lord of the Drinks has opened in Lucknow and that night was its inaugural party where entry was strictly through invitation. <br />
+<br />
+I politely asked the bouncer outside the gate, “Can I just go in and have a look around? “ pleasantly he said, “YES.”<br />
+I went in. My husband and others followed me.<br />
+Then to our surprise drinks were offered,  music dance, masti.! We stayed there till 1.00 am, till it all got over.<br />
+<br />
+Everyone including my husband was zapped,<br />
+My brother in law in utter disbelief kept chanting “Ye kya tha ? What was this? Free entry and free drinks worth over ₹ 11 k  and No bill???  How and why did we we were get treated like privileged important guests???? “<br />
+<br />
+We had a BLAST!<br />
+<br />
+I said, “This was a Divine Party gifted by the Angels. Before leaving the house I told Neetu maa, I have ₹5k rest is up to you.” <br />
+See what SHE & THEY weaved for not only ne but my companions.... man.. VVIP TREATMENT, MUSIC, DANCE, FREE DRINKS ... a truly MIRACULOUS MAGICAL NIGHT.”<br />
+<br />
+They all are still in Shock!!!! and I more empowered and ever more grateful to THEM for raising my FAITH in THEM, THE DIVINE, ANGELS, GOD to this level. I am so proud of my faith in THEM. THEY give beyond our expectations and how!!!!<br />
+<br />
+WOW is my new mantra. I am in tears while sharing this with u all. It was so MAGICAL.<br />
+<br />
+NOT a penny spent and extravagant extraordinary magical fun filled evening was gifted by the Divine.<br />
+<br />
+Thank you Divine <br />
+Thank you Neetu maa <br />
+Thank you for everything 🤲🏻🙌🏼👏🏻<br />
+        
+          </div>
+        </div>
+        
+    </div>
+</div>
+
+<!-- <div class="container">
+  <div class="row">
+      <div class="col">
+
+          <div class="nonloop-block-15 owl-carousel">
+
+
+              <div class="media-with-text">
+                <div class="img-border-sm mb-4">
+                  <a href="events.html">
+                    <img src="images/img_1.jpg" alt="" class="img-fluid">
+                  </a>
+                </div>
+                <div class="blogTxt">
+      
+                  <h3>
+                    Ea delicata deterru isset concluda turque
+                  </h3>
+      
+      
+                  <p class="post_intro hidden-xs">
+                    Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum et, lucilius par...
+                  </p>
+                  <button type="button" class="btn btn-primary eventmodal" id="btneventmodal1" >
+                      Read More
+                    </button>
+                  <div tabindex="-1" role="dialog" hidden  id="eventmodal1">
+                    
+                        <div style="max-height:490px;overflow:scroll;" >
+                          <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                            occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                            enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                            consequat.</p>
+                        </div>
+      
+                      </div>
+      
+                </div>
+              </div>
+      
+              <div class="media-with-text">
+                <div class="img-border-sm mb-4">
+                  <a href="events/">
+                    <img src="lib/files/believe.jpeg" alt="" class="img-fluid">
+                  </a>
+                </div>
+                <div class="blogTxt">
+      
+                  <h3>
+                    My manifestations after coming in Prayers
+                  </h3>
+      
+      
+                  <p class="post_intro hidden-xs">
+                      Life seems to be sorted fully...
+                  </p>
+                  <button type="button" class="btn btn-primary eventmodal" id="btneventmodal2" data-target="#eventmodal2">
+                      Read More
+                    
+                  </button>
+                  <div tabindex="-1" role="dialog" hidden  id="eventmodal2">
+                    
+                        <div style="max-height:490px;overflow:scroll;" >
+                          <p>Life seems to be sorted fully. 
+                              Thank you Dimple MA. 
+                              Love you. 
+                              I wanted a clean, spacious home. 
+                              I have. 
+                              I wanted to wear sarees to my workplace. 
+                              I have started. 
+                              I wanted loads of plants in my home. 
+                              I have
+                              I wanted enough resources for the education of my children and their marriages. 
+                              Both married and settled. 
+                              I wanted to be Naani Daadi. 
+                              I am both
+                              I wanted my son and daughter in law to have good relationship. 
+                              They have. 
+                              I wanted my children to travel. 
+                              They do. 
+                              I wanted good health for my husband and myself. 
+                              We are healthy. 
+                              Bow, Namaskar, love, respect, regards to you Dimple Ma.
+                              Jeenay ka mazaa 
+                              Jeenay ka tareeka
+                              Sab Aapnay dey diya
+                              Thank you 
+                              Thank you 
+                              Thank you</p>
+                        </div>
+      
+                      </div>
+      
+                </div>
+              </div>
+      
+              <div class="media-with-text">
+                <div class="img-border-sm mb-4">
+                  <a href="events/">
+                    <img src="lib/files/baby.jpeg" alt="" class="img-fluid">
+                  </a>
+                </div>
+                <div class="blogTxt">
+      
+                  <h3>
+                      I conceived after four years of marriage
+                  </h3>
+      
+      
+                  <p class="post_intro hidden-xs">
+                      I conceived after four years of marriage
+                  </p>
+                  <button type="button" class="btn btn-primary eventmodal" id="btneventmodal3" data-target="#eventmodal3">
+                      Read More
+                    </button>
+                  <div tabindex="-1" role="dialog" hidden  id="eventmodal3">
+                    
+                        <div style="max-height:490px;overflow:scroll;" >
+                          <p>Please share
+                              I conceived after four years of marriage, loads and loads of efforts. I was happy but insecure and very anxious. Was sowing mixed bag of emotions. 
+                              Insecurities and anxieties out did happiness. I would thank profusely for this conception but at the same time constantly sowed anxiety, fear, doubt, insecurity.
+                              Then miscarriage,
+                              My world fell apart but it was an amazingly enriching experience. I knew what wrong I had sown. Strange confidence came in me to sow more and more of goodies, good feelings. This miscarriage is my teacher. I understood what Dimple Auntyji says. I knew where I was wrong, what I had sown I started meditations. 
+                              I started shifting my focus. I started feeling better. This my miscarriage is my teacher, it helped me in all my living. Didn't conceive for next three years, but working on myself continued. 
+                              Just day before my pregnancy is confirmed. I am at a much better place today. I know this baby will be born healthy and happy. I am so sure. Thank you Dimple Auntyji. Journey of knowing what we want and what we sow. I get results of my sowing instantly. 
+                              I sow low feel for whatever reason, I get more of it and it comes from anywhere. I sow good feelings and I get the same from anywhere. 
+                              Sow bad, receive badder, says Auntyji, friends I am living this. 
+                              Please be alert. I am a living example. I sowed thank you, happiness and anxiety in first conception. Anxiety was more and miscarriage happened, now happiness and gratitude is more and I know I have in my womb healthy and happy Soul. I am confident. 
+                              Anxiety when it comes, instead of letting it multiply, I wash my face, put on music, start meditation, go for a walk. All directions of Auntyji I follow to the T. 
+                              Thank you dear Aunty ji for making me the Creator of my life. 
+                              ðŸ™‡ Bow Bow Bow Bow to you.
+                              
+                              Dimple Anil: Your learning through a rough process shows how Blessed you are dear. Divine Wisdom, your Trust and Faith is immense. Anyone would have buckled. 
+                              Not easy, not at all from where you started and where your realization has brought you today is worth emulating. My happiness for you is gushing out, infact I am smiling with teary eyes. You truly are an example of being a Creator of your destiny. Thank you so much dear for your sharing.
+                              All Blessings dear. THEY have no option but to shower and keep on showering Blessings. 
+                              Gratitude to THEM</p>
+                        </div>
+      
+      
+                      </div>
+      
+                </div>
+              </div>
+      
+              
+      
+            </div>
+
+            <br />
+            <br />
+
+      </div>
+  </div>
+</div> -->
+
+<!--// main-heading -->
+<!-- Cards content -->
+<!-- TODO Remove hidden attribute in next line to display items -->
+<div class="interior container clearfix" style="margin-top: 40px;" hidden="hidden">
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Ea delicata deterru isset concluda turque</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal4" data-target="#eventmodal4"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal4">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Ea delicata deterru isset concluda turque</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal5" data-target="#eventmodal5"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal5">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Ea delicata deterru isset concluda turque</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal6" data-target="#eventmodal6"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal6">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Ea delicata deterru isset concluda turque</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal7" data-target="#eventmodal7"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal7">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Ea delicata deterru isset concluda turque</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal8" data-target="#eventmodal8"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal8">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Ea delicata deterru isset concluda turque</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal9" data-target="#eventmodal9"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal9">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal10" data-target="#eventmodal10"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal10">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal11" data-target="#eventmodal11"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal11">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal12" data-target="#eventmodal12"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal12">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal13" data-target="#eventmodal13"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal13">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal14" data-target="#eventmodal14"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal14">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+      <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+        </a></div>
+      <div class="blogTxt">
+        <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+        <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+          et, lucilius par...</p>
+        <button type="button" class="btn btn-primary eventmodal" id="btneventmodal15" data-target="#eventmodal15"> Read More </button>
+        <div tabindex="-1" role="dialog" hidden  id="eventmodal15">
+          <div style="max-height:490px;overflow:scroll;" >
+            <div style="max-height:490px;overflow:scroll;" >
+              <div style="max-height:490px;overflow:scroll;" >
+                <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                  consequat.</p>
+              </div>
+              <!-- <div class="modal-footer"><button type="button" class="btn btn-danger"
+                  data-dismiss="modal">Close</button></div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="loadMore"><a style="margin-top: 50px;">Load More</a></div>
+  </div>
+</div>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+<script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script>
+<script>
+$(document).ready(function () {
+
+  window.setTimeout(function(){
+  $(".eventmodal").on('click', function (e) {
+      // $('#eventmodal'+this.id.replace('btneventmodal','')).attr('style','display:block;');
+      Swal.fire(
+      {'html':'<div style="max-height:500px;" class "overflow-auto">'+$('#eventmodal'+this.id.replace('btneventmodal','')).html()+'</div>',
+      showCloseButton: true,
+showCancelButton: false,
+showConfirmButton: false,
+      });
+  });
+},500);
+
+  // $(".moreBox").slice(0, 3).show();
+  if ($(".blogBox:hidden").length != 0) {
+    $("#loadMore").show();
+  }
+  $("#loadMore").on('click', function (e) {
+    e.preventDefault();
+    $(".moreBox:hidden").slice(0, 3).slideDown();
+    if ($(".moreBox:hidden").length == 0) {
+      $("#loadMore").slow();
+    }
+  });
+});
+</script>

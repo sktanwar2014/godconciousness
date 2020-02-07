@@ -1,0 +1,419 @@
+<div>
+  <img class="maincover" src="{{siteUrl}}images/thumbnail_Aunty pic 2.jpg" alt=""
+    style="background-size: cover;background-position: center;height: 89vh;width: 100% !important;padding:0px !important;margin:0px !important;">
+  <style type="text/css">
+    @media only screen and (max-width: 600px) {
+      .maincover {
+        height: 30vh !important;
+      }
+    }
+  </style>
+
+  <div class="greyb">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 mx-auto text-center">
+          <h2 class="grey" style="padding-top: 20px;">TODAY'S PRAYERS</h2>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 mx-auto mb-5">
+        <blockquote class="text-left" style="margin-top: 30px;margin-left: 21%;font-size: 18px" id="prayermain">
+        </blockquote>
+      </div>
+    </div>
+  </div>
+
+  <div class="site-section block-20  bg-light">
+    <div class="site-section">
+      <div class="container">
+        <div class="row py-5">
+          <!--  data-aos="fade-right" -->
+          <div class="col-md-6 mb-5 mb-md-0 aos-init">
+            <div class="img-border"><a href="{{siteUrl}}lib/gods.mp4" class="popup-vimeo image-play"> <span
+                  class="icon-wrap"> <span class="icon icon-play"></span> </span> <img
+                  src="{{siteUrl}}images/Aunty pics - corrected 02croped corrected.jpg" alt="" class="img-fluid"> </a>
+            </div>
+          </div><!-- data-aos="fade-left" -->
+          <div class="col-md-5" style="padding-left: 30px;">
+            <h2 class="h2 mb-3">ABOUT GOD CONSCIOUSNESS</h2>
+
+            <p class="mb-4 ">God's Consciousness is a community initiated by Ms. Dimple Anil (a Clairvoyant Psychic
+              Medium, an
+              educationist for more than three decades) who receives MESSAGES in the form of PRAYERS, GUIDELINES &
+              DIRECTIONS
+              from our Loved Ones who have crossed over - Our GUARDIAN ANGELS. These Prayers and Directions are simple,
+              pragmatic and extremely powerful and help us receive, manifest Happiness, love, great health, wealth,
+              fame,
+              safety, security, great relationships, proficiency in their talent or skills, prosperity, amazing
+              academic, sports
+              or professional growth, relief from legal battles, awards and accolades, spiritual growth and ascension of
+              your
+              spirit, wisdom – in other words – a haven where one takes control, holds the remote of one’s life
+              consciously, in
+              Divine Alignment.</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- 
+    <div class="site-section site-block-feature" style="padding-top: 50px;">
+    <div class="container">
+    <div class="d-block d-md-flex border-bottom">
+    <div class="text-center p-4 item border-right"><span class="flaticon-prayer display-3 mb-3 d-block text-primary"></span>
+    <h2 class="h5 text-uppercase">Prayers</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati reprehenderit explicabo quos fugit vitae dolorum.</p>
+    <p><a href="#">Read More <span class="icon-arrow-right small"></span></a></p>
+    </div>
+    <div class="text-center p-4 item"><span class="flaticon-paper-plane display-3 mb-3 d-block text-primary"></span>
+    <h2 class="h5 text-uppercase">Direction</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati reprehenderit explicabo quos fugit vitae dolorum.</p>
+    <p><a href="#">Read More <span class="icon-arrow-right small"></span></a></p>
+    </div>
+    </div>
+    <div class="d-block d-md-flex">
+    <div class="text-center p-4 item border-right"><span class="flaticon-meditation display-3 mb-3 d-block text-primary"></span>
+    <h2 class="h5 text-uppercase">OBE's</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati reprehenderit explicabo quos fugit vitae dolorum.</p>
+    <p><a href="#">Read More <span class="icon-arrow-right small"></span></a></p>
+    </div>
+    <div class="text-center p-4 item"><span class="flaticon-praying  display-3 mb-3 d-block text-primary"></span>
+    <h2 class="h5 text-uppercase">Daily Prayers</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati reprehenderit explicabo quos fugit vitae dolorum.</p>
+    <p><a href="#">Read More <span class="icon-arrow-right small"></span></a></p>
+    </div>
+    </div>
+    </div>
+    </div>
+  -->
+
+  <div class="site-section block-15">
+    <div class="container mb-5">
+      <div class="row">
+        <div class="col-md-6 mx-auto text-center mb-5">
+          <h2 style="padding-top:30px;">MIRACLES</h2>
+        </div>
+      </div>
+
+      <div class="container">
+          <div class="row">
+              <div class="col-12 col-md-4 text-center"><img class="img-fluid" src="lib/files/pic3.jpeg" alt="">
+              <h4 style="font-size: 1.7em;" class="post_intro hidden-xs">
+                  I come from and got married into a joint family.
+              </h4>
+            <button type="button" class="btn btn-primary btnmodal pill greybutton" id="b1">
+                Read More
+                </button>
+            <div id="data1" hidden>
+              I come from a joint family and got married into a joint family. In my new family, I saw that each one loved to play politics with one another. Saying bad behind someone's back and be sweet in front of them, I couldn't cope with all this and started getting migraines. I always felt I was clear and doing what was right for me! <br />
+              After coming into prayers I realised, that my claim of being clear-hearted was filled with ego and feeling of superiority. I became aware of my thoughts and my knowledge of my own self eventually healed my migraine. <br />
+              Thank you Di for the prayers. <br />
+              I was sowing ego and one up-manship and reaping migraine. <br />
+              Thank you for this awakening.<br />
+              <br />
+              Dimple Anil: All Gratitude to THEM, dear. <br />
+              Treat reading your Sharing. <br />
+              Your fine tuning with THE DIVINE and understanding of THEIR ways is remarkable. <br />
+              Bow to THEM.<br />
+                </div>
+              </div>
+              <div class="col-12 col-md-4 text-center"><img class="img-fluid" src="lib/files/believe.jpeg" alt="">
+              <h4 style="font-size: 1.7em;" class="post_intro hidden-xs">
+                  My manifestations after coming in Prayers
+              </h4>
+            <button type="button" class="btn btn-primary btnmodal pill greybutton" id="b2">
+                Read More
+            </button>
+            <div id="data2" hidden>
+              Life seems to be sorted fully. <br />
+                  Thank you Dimple MA. <br />
+                  Love you. <br />
+                  I wanted a clean, spacious home. <br />
+                  I have. <br />
+                  I wanted to wear sarees to my workplace. <br />
+                  I have started. <br />
+                  I wanted loads of plants in my home. <br />
+                  I have<br />
+                  I wanted enough resources for the education of my children and their marriages. <br />
+                  Both married and settled. <br />
+                  I wanted to be Naani Daadi. <br />
+                  I am both<br />
+                  I wanted my son and daughter in law to have good relationship. <br />
+                  They have. <br />
+                  I wanted my children to travel. <br />
+                  They do. <br />
+                  I wanted good health for my husband and myself. <br />
+                  We are healthy. <br />
+                  Bow, Namaskar, love, respect, regards to you Dimple Ma.<br />
+                  Jeenay ka mazaa <br />
+                  Jeenay ka tareeka<br />
+                  Sab Aapnay dey diya<br />
+                  Thank you <br />
+                  Thank you <br />
+                </div>
+              </div>
+              <div class="col-12 col-md-4 text-center"><img class="img-fluid" src="lib/files/baby.jpeg" alt="">
+              <h4 style="font-size: 1.7em;" class="post_intro hidden-xs">
+                I conceived after four years of marriage
+              </h4>
+            <button type="button" class="btn btn-primary btnmodal pill greybutton" id="b3">
+                Read More
+                </button>
+            <div id="data3" hidden>
+              Please share<br />
+                  I conceived after four years of marriage, loads and loads of efforts. I was happy but insecure and very anxious. Was sowing mixed bag of emotions. <br />
+                  Insecurities and anxieties out did happiness. I would thank profusely for this conception but at the same time constantly sowed anxiety, fear, doubt, insecurity.<br />
+                  Then miscarriage,<br />
+                  My world fell apart but it was an amazingly enriching experience. I knew what wrong I had sown. Strange confidence came in me to sow more and more of goodies, good feelings. This miscarriage is my teacher. I understood what Dimple Auntyji says. I knew where I was wrong, what I had sown I started meditations. <br />
+                  I started shifting my focus. I started feeling better. This my miscarriage is my teacher, it helped me in all my living. Didn't conceive for next three years, but working on myself continued. <br />
+                  Just day before my pregnancy is confirmed. I am at a much better place today. I know this baby will be born healthy and happy. I am so sure. Thank you Dimple Auntyji. Journey of knowing what we want and what we sow. I get results of my sowing instantly. <br />
+                  I sow low feel for whatever reason, I get more of it and it comes from anywhere. I sow good feelings and I get the same from anywhere. <br />
+                  Sow bad, receive badder, says Auntyji, friends I am living this. <br />
+                  Please be alert. I am a living example. I sowed thank you, happiness and anxiety in first conception. Anxiety was more and miscarriage happened, now happiness and gratitude is more and I know I have in my womb healthy and happy Soul. I am confident. <br />
+                  Anxiety when it comes, instead of letting it multiply, I wash my face, put on music, start meditation, go for a walk. All directions of Auntyji I follow to the T. <br />
+                  Thank you dear Aunty ji for making me the Creator of my life. <br />
+                  🙇 Bow Bow Bow Bow to you.<br />
+                  <br />
+                  Dimple Anil: Your learning through a rough process shows how Blessed you are dear. Divine Wisdom, your Trust and Faith is immense. Anyone would have buckled. <br />
+                  Not easy, not at all from where you started and where your realization has brought you today is worth emulating. My happiness for you is gushing out, infact I am smiling with teary eyes. You truly are an example of being a Creator of your destiny. Thank you so much dear for your sharing.<br />
+                  All Blessings dear. THEY have no option but to shower and keep on showering Blessings. <br />
+                  <br />
+                </div>
+              </div>
+          </div>
+      </div>
+
+      <!-- <div class="nonloop-block-15 owl-carousel">
+
+        <div class="media-with-text">
+          <div class="img-border-sm mb-4">
+            <a href="events.html">
+              <img src="images/img_1.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+          <div class="blogTxt">
+
+            <h3>
+              Ea delicata deterru isset concluda turque
+            </h3>
+
+
+            <p class="post_intro hidden-xs">
+              Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum et, lucilius par...
+            </p>
+            <button type="button" class="btn btn-primary btnmodal" id="b1">
+                Read More
+                </button>
+            <div id="data1" hidden>
+              Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                      exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                      consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                      enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                      consequat.
+            </div>
+
+          </div>
+        </div>
+
+        <div class="media-with-text">
+          <div class="img-border-sm mb-4">
+            <a href="events/">
+              <img src="lib/files/believe.jpeg" alt="" class="img-fluid">
+            </a>
+          </div>
+          <div class="blogTxt">
+
+            <h3>
+              My manifestations after coming in Prayers
+            </h3>
+
+
+            <p class="post_intro hidden-xs">
+                Life seems to be sorted fully...
+            </p>
+            <button type="button" class="btn btn-primary btnmodal" id="b2">
+                Read More
+            </button>
+            <div id="data2" hidden>
+              <p>Life seems to be sorted fully. 
+                        Thank you Dimple MA. 
+                        Love you. 
+                        I wanted a clean, spacious home. 
+                        I have. 
+                        I wanted to wear sarees to my workplace. 
+                        I have started. 
+                        I wanted loads of plants in my home. 
+                        I have
+                        I wanted enough resources for the education of my children and their marriages. 
+                        Both married and settled. 
+                        I wanted to be Naani Daadi. 
+                        I am both
+                        I wanted my son and daughter in law to have good relationship. 
+                        They have. 
+                        I wanted my children to travel. 
+                        They do. 
+                        I wanted good health for my husband and myself. 
+                        We are healthy. 
+                        Bow, Namaskar, love, respect, regards to you Dimple Ma.
+                        Jeenay ka mazaa 
+                        Jeenay ka tareeka
+                        Sab Aapnay dey diya
+                        Thank you 
+                        Thank you 
+                        Thank you</p>
+                 
+            </div>
+
+          </div>
+        </div>
+
+        <div class="media-with-text">
+          <div class="img-border-sm mb-4">
+            <a href="events/">
+              <img src="lib/files/baby.jpeg" alt="" class="img-fluid">
+            </a>
+          </div>
+          <div class="blogTxt">
+
+            <h3>
+                I conceived after four years of marriage
+            </h3>
+
+
+            <p class="post_intro hidden-xs">
+                I conceived after four years of marriage
+            </p>
+            <button type="button" class="btn btn-primary btnmodal" id="b3">
+                Read More
+                </button>
+            <div id="data3" hidden>
+              <p>Please share
+                        I conceived after four years of marriage, loads and loads of efforts. I was happy but insecure and very anxious. Was sowing mixed bag of emotions. 
+                        Insecurities and anxieties out did happiness. I would thank profusely for this conception but at the same time constantly sowed anxiety, fear, doubt, insecurity.
+                        Then miscarriage,
+                        My world fell apart but it was an amazingly enriching experience. I knew what wrong I had sown. Strange confidence came in me to sow more and more of goodies, good feelings. This miscarriage is my teacher. I understood what Dimple Auntyji says. I knew where I was wrong, what I had sown I started meditations. 
+                        I started shifting my focus. I started feeling better. This my miscarriage is my teacher, it helped me in all my living. Didn't conceive for next three years, but working on myself continued. 
+                        Just day before my pregnancy is confirmed. I am at a much better place today. I know this baby will be born healthy and happy. I am so sure. Thank you Dimple Auntyji. Journey of knowing what we want and what we sow. I get results of my sowing instantly. 
+                        I sow low feel for whatever reason, I get more of it and it comes from anywhere. I sow good feelings and I get the same from anywhere. 
+                        Sow bad, receive badder, says Auntyji, friends I am living this. 
+                        Please be alert. I am a living example. I sowed thank you, happiness and anxiety in first conception. Anxiety was more and miscarriage happened, now happiness and gratitude is more and I know I have in my womb healthy and happy Soul. I am confident. 
+                        Anxiety when it comes, instead of letting it multiply, I wash my face, put on music, start meditation, go for a walk. All directions of Auntyji I follow to the T. 
+                        Thank you dear Aunty ji for making me the Creator of my life. 
+                        🙇 Bow Bow Bow Bow to you.
+                        
+                        Dimple Anil: Your learning through a rough process shows how Blessed you are dear. Divine Wisdom, your Trust and Faith is immense. Anyone would have buckled. 
+                        Not easy, not at all from where you started and where your realization has brought you today is worth emulating. My happiness for you is gushing out, infact I am smiling with teary eyes. You truly are an example of being a Creator of your destiny. Thank you so much dear for your sharing.
+                        All Blessings dear. THEY have no option but to shower and keep on showering Blessings. 
+                        Gratitude to THEM</p>
+                  
+            </div>
+
+          </div>
+        </div>
+
+        
+
+      </div> -->
+
+    </div>
+
+  </div>
+
+
+  <div class=" bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 mx-auto text-center">
+          <h2 class="mb-5" style="padding-top: 60px;">INSTAFEEDS</h2>
+        </div>
+        <div id="instafeed" style="margin-top: 30px; margin-bottom: 30px;"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+      $(function(){AOS.init();});
+  </script>
+  <script type="text/javascript">
+    var html = `<div class="col-md-3 col-xs-5 mb-3 mx-auto text-center">
+                <a data-toggle="modal" data-target="#modal{{id}}" target="_blank" id="{{id}}">
+                <img class="img-responsive" src="{{image}}" /></a>
+                </div>
+<div class="modal" id="modal{{id}}">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+<button type="button" class="btn btn-danger float-right mb-3" data-dismiss="modal"><i class="icon-times"></i></button>
+<img style="width:100%;" src="{{image}}" />
+{{caption}}
+</div>
+</div>
+</div>
+</div>`;
+    var userFeed = new Instafeed({
+      get: 'user',
+      userId: '8987997106',
+      accessToken: '11178924544.8196b19.6753d623401340118e409489e7fdd539',
+      resolution: 'standard_resolution',
+      template: html,
+      sortBy: 'most-recent',
+      limit: 4,
+      links: false
+    });
+    //             userFeed.run();
+
+    var token = '11178924544.50f7a7e.6f41d45339be40978525e5ffab72329a',
+      num_photos = 4, // maximum 20
+      container = document.getElementById('instafeed'),
+      scrElement = document.createElement('script');
+
+    window.mishaProcessResult = function (data) {
+      //console.log(data);
+      var html = '';
+      for (x in data.data) {
+        item = data.data[x];
+        r = Math.floor(Math.random() * 10000) % 10000;
+
+        html += `
+<div class="col-6 col-md-3 mb-3 mx-auto text-center">`;
+        if (item.type == "video") html += `<video controls muted autoplay loop class="w-100">
+<source src="` + item.videos.low_resolution.url + `" type="video/mp4">
+Your browser does not support the video tag.</video> `;
+        else {
+          html += `<a data-toggle="modal" data-target="#modal` + r + `" target="_blank" id="` + r + `">`;
+
+          html += `<img class="img-responsive" src="` + item.images.low_resolution.url + `" /></a>`;
+        }
+        html += `</div>`;
+        if (item.type != "video") html += `<div class="modal" id="modal` + r + `">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+<button type="button" class="btn btn-danger float-right mb-3" data-dismiss="modal"><i class="icon-times"></i></button>
+<img style="width:100%;" src="` + item.images.standard_resolution.url + `" />
+<br />` + ((item.caption && item.caption.text) ? item.caption.text : "") + `
+</div>
+</div>
+</div>
+</div>`;
+      }
+      //console.log(html);
+      container.innerHTML = html;
+    }
+
+    scrElement.setAttribute('src', 'https://api.instagram.com/v1/users/self/media/recent?access_token=' + token +
+      '&count=' + num_photos + '&callback=mishaProcessResult');
+    document.body.appendChild(scrElement);
+  </script>
+    
+</div>

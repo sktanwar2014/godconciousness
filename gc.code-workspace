@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "bl-themes\\alternative\\php"
+    }
+  ],
+  "settings": {
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

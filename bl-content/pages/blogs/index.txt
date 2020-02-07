@@ -1,0 +1,371 @@
+<div class="container-fluid" style="padding: 0px!important;"><img src="lib/files/blog.jpeg" alt=""
+    class="img-responsive" style="width: 100%; height:350px;"></div>
+
+<div class="container breadcrumb" style="max-width: 1920px; background-color: #f8f9fa!important;">
+  <p style="margin-top: 24px; margin-bottom: 0px; padding-top: 0px; /* margin-bottom: 0; */    font-size: 0.8em;"><a
+      href="{{siteUrl}}index.html" style="background-color: #f8f9fa!important;">Home </a> &gt; Blog</p>
+</div>
+<section class="choose bg-light py-5">
+  <h2 class="main-title-w3layouts text-center" style="padding-top:0px;">Blogs</h2>
+  <h2 class="text-center">Coming Soon</h2>
+  <!-- TODO Remove hidden attribute in next line to display items -->
+  <div class="interior container clearfix" style="margin-top: 40px;" hidden="hidden">
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Ea delicata deterru isset concluda turque</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a>
+        </div>
+        <div class="blogTxt">
+          <h3>Ea delicata deterru isset concluda turque</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Ea delicata deterru isset concluda turque</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Ea delicata deterru isset concluda turque</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Ea delicata deterru isset concluda turque</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Ea delicata deterru isset concluda turque</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 blogBox moreBox" style="display: none;">
+        <div class="img-border-sm mb-4"><a href="#"> <img src="{{siteUrl}}images/img_1.jpg" alt="" class="img-fluid">
+          </a></div>
+        <div class="blogTxt">
+          <h3>Lorem ipsum dolor sit amet, consect adipiscing elit</h3>
+          <p class="post_intro hidden-xs">Mel ut enim atqui, ne eum tation populo delectus. Vim soluta insolens phaedrum
+            et, lucilius par...</p>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal"> Read More </button>
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-danger"
+                    data-dismiss="modal">Close</button></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="loadMore"><a style="margin-top: 50px;">Load More</a></div>
+    </div>
+  </div>
+</section>
+<p>
+  <script>
+    $(document).ready(function () {
+      $(".moreBox").slice(0, 3).show();
+      if ($(".blogBox:hidden").length != 0) {
+        $("#loadMore").show();
+      }
+      $("#loadMore").on('click', function (e) {
+        e.preventDefault();
+        $(".moreBox:hidden").slice(0, 3).slideDown();
+        if ($(".moreBox:hidden").length == 0) {
+          $("#loadMore").slow();
+        }
+      });
+    });
+  </script>
+</p>

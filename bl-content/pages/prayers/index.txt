@@ -1,0 +1,590 @@
+<div class="container-fluid" style="padding: 0px!important;">
+  <img src="{{ siteUrl }}images/GC/Prayers Graphic V1 - 1920 x 400.jpg" alt="" class="img-responsive"
+    style="width: 100%; height: 350px;" />
+</div>
+<div class="container breadcrumb">
+  <p style="margin-top: 24px; margin-bottom: 0px; padding-top: 0px; /* margin-bottom: 0; */    font-size: 0.8em;">
+    <a href="{{ siteUrl }}index.html">Home </a> &gt; Prayers &gt; Today's
+    Prayers
+  </p>
+</div>
+<center>
+  <h2>
+    Prayers
+  </h2>
+</center>
+<div class="">
+  <div class="">
+    <div class="container text-center">
+      <div class="row">
+
+        <a class="col-3 p-0" href="prayerday?month=1"><img src="images/MonthlySlide/Jan.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=2"><img src="images/MonthlySlide/Feb.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=3"><img src="images/MonthlySlide/March.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=4"><img src="images/MonthlySlide/April.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=5"><img src="images/MonthlySlide/May.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=6"><img src="images/MonthlySlide/June.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=7"><img src="images/MonthlySlide/July.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=8"><img src="images/MonthlySlide/August.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=9"><img src="images/MonthlySlide/Sep.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=10"><img src="images/MonthlySlide/Oct.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=11"><img src="images/MonthlySlide/Nov.jpg" class="img-fluid" /></a>
+        <a class="col-3 p-0" href="prayerday?month=12"><img src="images/MonthlySlide/Dec.jpg" class="img-fluid" /></a>
+
+        <div class="link col-md-12 row" id="discography-content">
+          <!-- <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/Jan.jpg');">
+              <a href="prayerday?month=1" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/Feb.jpg');">
+              <a href="prayerday?month=2" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/March.jpg');">
+              <a href="prayerday?month=3" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/April.jpg');">
+              <a href="prayerday?month=4" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/May.jpg');">
+              <a href="prayerday?month=5" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/June.jpg');">
+              <a href="prayerday?month=6" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/July.jpg');">
+              <a href="prayerday?month=7" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/August.jpg');">
+              <a href="prayerday?month=8" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/Sep.jpg');">
+              <a href="prayerday?month=9" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;">
+                    
+                  </h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div"style="background-image: url('images/MonthlySlide/Oct.jpg');">
+              <a href="prayerday?month=10" id="" target="_self">
+                <div>
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/Nov.jpg');">
+              <a href="prayerday?month=11" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-6 p-0">
+            <div class="gridbox outer-div" style="background-image: url('images/MonthlySlide/Dec.jpg');">
+              <a href="prayerday?month=12" id="" target="_self">
+                <div >
+                  <h1 class="text-light" style="min-height:115px;"></h1>
+                </div>
+              </a>
+            </div>
+          </div> -->
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+
+<!-- <div class="container breadcrumb" style="max-width: 1920px;">
+<p style="margin-top: 24px; margin-bottom: 0px; padding-top: 0px; /* margin-bottom: 0; */    font-size: 0.8em;"><a href="{{siteUrl}}index.html">Home </a> &gt; Message &gt; Prayer</p>
+</div>
+<div class="slideshow-container">
+<div class="mySlides">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"MANGAL hi MANGAL<br>Hum Sab Ka MANGAL Kar Do Ji <br>Dukh Takleef Kasht Intezaar Losses Sab Har Lo Ji <br>Shukrana Shukrana Shukrana Meray Malik. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,My Divine,My Strength <br>I am Blessed,I am Calm,I am Content<br>I am Grateful,I am Happy,Thank You Divine<br>Thank You Universe,Thank You Divine. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I receive Showers and Showers of HappiAness <br>And Bliss Now. <br>I am Blessed and Filled with Blessings Today. <br>Thank You Universe ,Thank You Divine<br>Thank You Universe. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"Jholiyan Barkaton, Best Sehat Tandrusti aur<br>Khushiyon se bhar do ji. <br>Dukh Takleef Kasht Intezaar Saaray har Lo ji. <br>Shukrana Shukrana Shukrana Meray Malik. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I Ask for Divine Wisdom My Lord so that<br>I live each moment with deep Consciousness.<br>Thank You Divine<br>Thank You Universe,Thank You Divine. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I Am filled with Deep Gratitude <br>My Lord. <br>I Ask You to Bless whatever<br>I have and Shower some more of <br>Good Health and Happy Times. <br>Thank You Lord,Thank You My Lord <br>Thank You My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord<br>Fill me with Positivity and Complete Well Being. <br>Thank You My Lord <br>Thank You My Lord ,Thank You My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I am Happy Today<br>I am Blessed Today<br>I am Filled with Gratitude Today. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I am Blessed Today ,I am Ready For a Miracle Today<br>I am in Receiving Mode Today <br>Because I am Sowing Consciously <br>Conscientiously and Carefully. <br>Thank You My Lord,Thank You My Divine,<br>Thank You My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"Sukh Shanti,Dhan Daulat,Sehat Tandrusti <br>Suraksha Santosh,Khushiyon Barkaton,<br>Izzat Maan Samman Trust and Surrender ,<br>Divine Wisdom,Self Esteem<br>Self Worthiness ,Se Bhar Do Ji,<br>Dukh Takleef Kasht Intezaar Hurts Pains<br>Sab Har Lo Ji ,Shukriya Meray Malik,<br>Shukriya Meray Malik<br>Shukriya Meray Malik. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>" My Lord,My Power<br>Envelope me and my Family in Golden Ball of<br>Divine Light of complete Protection. <br>Thank You My Lord ,Thank You My Power. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I Ask You My Divine to Guide me at each step.<br>I Ask You My Lord to help me live <br>Each moment with complete Consciousness.<br>Thank You My Lord ,<br>Thank You My Divine. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"Me and my Family are Blessed <br>We are Healthy,We are in Bliss.<br>We are Financial Magnets.<br>Thank You My Lord,Thank You My Divine,<br>Thank You My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"Me and my Family are in Bliss today. <br>We are Together and Happy,<br>We are in Complete Gratitude<br>Thank You Divine ,Thank You Universe ,<br>Thank You Divine. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"We are Blessed and Happy We are Financially Stable<br>We are Safe and Protected,Thank You Divine<br>Thank You My Lord ,Thank You My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"Keep us Protected My Lord<br>Keep us always Blessed,Thank You<br>Thank You ,Thank You My Divine<br>My Universe,My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"Sukh Shanti,Dhan Daulat<br>Sehat Tandrusti Suraksha Santosh Khushiyon<br>Barkaton Izzat Maan Samman Trust and Surrender <br>Divine Wisdom ,Happiness and Laughter<br>Good word of mouth ,<br>Sey Jholiyan Bhar Do Ji<br>Dukh Takleef Kasht Intezaar Saaray Har Lo ji <br>Shukriya Shukriya Shukriya Meray Malik. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,My Divine<br>Please give me and my Family <br>Safe Smooth and Prosperous life.<br>Thank You My Lord ,Thank You My Lord,<br>Thank You My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"We Seek Complete Happiness<br>My Divine,Shower Complete Happiness My Lord<br>Thank You for Showering Complete Happiness My Power. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I am Blessed,I am Happy,I am Content<br>I am Calm,Thank You,Thank You,Thank You<br>My Lord,My Universe,My Divine. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,I want my Today to pass off beautifully. <br>I meet positive and happy people Today. <br>I feel happy and positive Today,<br>Thank You My Lord<br>Thank You My Lord ,Thank You My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,My Divine<br>I come to You with Open Palms and <br>Ask You to Guide and Guard me <br>and my Family.<br>Thank You My Lord,Thank You My Divine. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,My Divine<br>Please I request YOU to keep<br>my focus on Happiness and Fun Today. <br>Fill my day with loads of Fun <br>And Happiness Today.<br>Thank You My Lord ,Thank You My Divine. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,My Power<br>My wishes are fulfilled <br>and my Prayers are answered. <br>Thank You My Lord,Thank You My Power. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I am absolutely ready to receive Abundance. <br>I am fully ready to move ahead in my life. <br>Thank You My Lord,Thank You My Universe,<br>Thank You My Divine. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,My Divine,My Power,Today<br>I am swirling in Divine Protection because <br>I know I am looked after by You.<br>Thank You My Divine,Thank You My Power. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I Ask for Smooth Prosperous Healthy and <br>Long Life for myself and my Family. <br>Thank You My Lord ,Thank You My Divine,<br>Thank You My Universe. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"I am in Showers of Bliss,<br>I feel this Bliss<br>I Bow in Gratitude for these showers of Bliss. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,My Power,<br>My Strength <br>I am going to feel Nice and Happy Today.<br>I am going to be Stress Free Today. <br>Thank You My Lord ,Thank You My Power,<br>Thank You My Strength. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,I request You to make<br>my feet take me to places <br>that will make me happy and stress free. <br>Give me The Wisdom to move to places<br>that make me feel Worthy.<br>Thank You My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="mySlides ">
+<div class="site-blocks-cover" style="background-image: url('{{siteUrl}}images/meditation.jpg');">
+<div class="container"><br><center>
+<h2 style="margin-top: 30px;">PRAYERS</h2>
+</center>
+<div class="row align-items-center justify-content-center">
+<blockquote>
+<p>"My Lord,I am receiving All Good in life. <br>I am Blessed and Happy to know <br>that YOU look after me.<br>Thank You My Lord. "</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    var slideIndex = 0;
+    showSlides();
+
+    function showSlides() {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+      }
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1}    
+      
+      slides[slideIndex-1].style.display = "block";  
+      
+      setTimeout(showSlides, 1000); // Change image every 10 seconds
+    }
+    </script> -->
